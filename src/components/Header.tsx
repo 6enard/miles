@@ -20,7 +20,7 @@ const Header = () => {
             <img 
               src="/logof.png" 
               alt="Miles & Strides" 
-             className="h-12 w-auto sm:h-16 md:h-20 object-contain"
+             className="h-10 w-auto sm:h-12 md:h-14 object-contain"
              style={{ imageRendering: 'crisp-edges' }}
             />
             
